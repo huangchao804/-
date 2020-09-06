@@ -1,0 +1,37 @@
+<html>
+<body>
+<meta charset="utf-8">
+<style type="text/css">
+#main{
+width:750px;
+margin:20px auto;
+
+}
+#main p{
+text-align:center;
+font-size:25px;
+font-weight:bold;
+margin-button:100px;
+}
+</style>
+</body>
+<head>
+<div id="main">
+<p>
+百度网盘资源搜索器@Jaume
+</p>
+<script>
+  (function() {
+    var cx = ''a63f48f6338e492af;
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+</div>
+</head>
+</html>
